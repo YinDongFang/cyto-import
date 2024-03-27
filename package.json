@@ -1,0 +1,38 @@
+{
+  "name": "cyto-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-import.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-import/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-import#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "express": "^4.19.2",
+    "is-falsy": "^0.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "koa": "^2.15.2",
+    "lodash": "^4.17.21",
+    "querystring": "^0.2.1",
+    "uuid": "^9.0.1",
+    "is-base": "^1.0.0",
+    "thisispro": "^1.0.0",
+    "isuse": "^1.0.0",
+    "cyto": "^1.0.0"
+  }
+}
